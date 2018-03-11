@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#header{
+	height: 60px;
+	
+}
+.nav li{
+	
+}
+
+.nav li a{
+	line-height: 60px;
+	margin-right: 20px;
+	float: right;
+	font-size: 15px;
+	font-weight: bolder;
+	color: #333;
+}
+.nav li .abc{
+	font-weight: normal;
+} 
+
+/*中间部分*/
+#main{
+
+}
+.main_top{
+	width: 280px;
+	height: 170px;
+	margin: auto;
+
+}
+img{
+	width: 280px;
+}
+.main_bottom{
+	width: 640px;
+	height: 50px;
+	margin: auto;
+}
+.main_bottom input{
+	width: 500px;
+	height: 30px;
+}
+.main_bottom button{
+	width: 100px;
+	height: 34px;
+	margin-left: -6px;
+	line-height: 31px;
+	background: #3385ff;
+	font-size: 14px;
+	color: white;
+}
+
+/*尾部*/
+#erweima{
+	width: 60px;
+	height: 60px;
+	margin: auto;
+	margin-top: 180px;
+}
+#erweima img{
+	text-align: center;
+	width: 60px;
+}
+#erweima p{
+	text-align: center;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #666;
+	margin-top: 3px;
+}
